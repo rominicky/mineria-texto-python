@@ -1,4 +1,4 @@
-# [materiales.github.io](https://github.com/rominicky/mineria-texto-python)
+# [Minería de texto en Python](https://github.com/rominicky/mineria-texto-python)
 
 Minería de texto en Python, material creado por Romina De León (CONICET)
  
