@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.12.5-blue.svg)](https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rominicky/materiales/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rominicky/mineria-texto-python/main)
 
 #### Romina De León
 ##### rdeleon@gmail.com
@@ -24,7 +24,7 @@ Una **notebook** es un entorno virtual, un documento computacional interactivo, 
 
 #### Vista rápida en Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rominicky/materiales/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rominicky/mineria-texto-python/main)
 
 Puede ingresar rápidamente a las notebooks hacer click en el botón **"Launch Binder"**. Se iniciará un entorno virtual en su navegador, allí se podrá abrir y ejecutar las notebboks sin instalar nada.
 
@@ -39,114 +39,50 @@ Sus limitaciones:
 
 ### Ejecución en Local
 
-Instrucciones si no se ha instalado previamente Jupyter o Python en su propia computadora. Mi recomendación es realizarlo con Anaconda, porque evita hacer varias instalaciones. 
+Instrucciones para instalar Jupyter y Python en su propia computadora. Recomiendo hacerlo con Anaconda, ya que simplifica la instalación de varios paquetes. 
 
-**Anaconda** es una distribucación de software libre y de código abierto de los lenguajes Python y R; ​muy utilizada en Ciencia de datos y Aprendizaje automático (Machine Learning), debido a su simplificación en la gestión e implementación de paquetes.​ Su trabajo incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos.
+**Anaconda** es una distribucación de software libre y de código abierto para los lenguajes Python y R; ​ampliamente utilizada en Ciencia de Datos y Aprendizaje automático (Machine Learning) debido a su facilidad en la gestión e implementación de paquetes.​ Su uso incluye el procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos.
 
 #### Instalación de Jupyter Notebooks y Python con Anaconda
 
 [![Anaconda (Python 3.12)](https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg)](https://www.anaconda.com/download/success)
 
-Una vez instalado, abra el navegador de Anaconda [![Anaconda Navigator](https://docs.anaconda.com/_images/nav-tabs1.png)](http://docs.anaconda.com/anaconda/user-guide/getting-started/#open-navigator). 
+La instalación de Anaconda incluye Python, Jupyter y varios módulos de Python que son necesarios para realizar análisis.
+
+Una vez instalado, abra el navegador de Anaconda 
+
+[![Anaconda Navigator](https://docs.anaconda.com/_images/nav-tabs1.png)](http://docs.anaconda.com/anaconda/user-guide/getting-started/#open-navigator)
+
+Desde allí abrir la interfaz **Jupyter Lab** o **Notebook**.
+
+##### Diferencias entre JupyterLab y Jupyter Notebook
+
+JupyterLab y Jupyter Notebook difieren principalmente en su interfaz de usuario, funcionalidad y flexibilidad. Jupyter Notebook tiene una interfaz más simple y ligera, mientras que JupyterLab ofrece una interfaz más versátil y rica en funciones.
 
 ### Descargue las notebooks de GitHub
 
-Vaya a la [página de GitHub](https://github.com/rominicky/materiales/mineria-texto)
-donde se guardan las notebooks de este repositorio, se podrán descargar cada unas de ellashaga clic en el botón verde "Código" en la parte superior derecha de la página.
+Vaya a la [página de GitHub](https://github.com/rominicky/mineria-texto-python/)
+donde se almacenan las notebooks de este repositorio, se podrán descargar desde el botón verde **Code** en la parte superior derecha de la página.
 
-![](assets/download-or-clone.png)
+![](https://docs.github.com/assets/cb-60499/mw-1440/images/help/repository/https-url-clone-cli.webp)
 
-Si nunca ha usado el control de versiones `git` antes, le recomiendo que simplemente descargue los cuadernos con la opción
-"Descargar ZIP". En la mayoría de los sistemas operativos, esto lo descomprimirá automáticamente en archivos individuales. Mueva
-la carpeta a algún lugar donde desee conservarla, como "Mis documentos".
+Si no tiene experiencia en el uso de control de versiones `git`, recomiendo descargar con la opción **Download ZIP**.
 
-Si ha usado `git` antes, puede clonar el repositorio con este comando:
+Si ya está familiarizado con `git`, puedes clonar el repositorio con este comando:
 
-`git clone https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020.git`
+`git clone https://github.com/rominicky/mineria-texto-python.git`
 
-### Ejecute cuadernos en un entorno dedicado
+### Ejecutar las notebooks en Anaconda
 
-En términos simples, un entorno es como una caja aislada en la que se ejecuta un cuaderno a salvo de la interferencia de otros cuadernos. Anaconda proporciona un entorno predeterminado, llamado 'root', en el que puede comenzar a funcionar rápidamente. Sin embargo, debería crear un nuevo entorno para cada proyecto (que puede tener uno o más cuadernos relacionados).
+Una vez abierto JupyterLab o Jupyter Notebook, navegue a la carpeta donde guardó las notebooks descargadas. Puede hacerlo desde la interfaz de usuario de Jupyter, que muestra un explorador de archivos en el lado izquierdo de la pantalla.
 
-En **Anaconda Navigator > Entornos**, haga clic en el botón "Crear" en la parte inferior izquierda de la lista de Entornos.
+  * JupyterLab: En el panel de archivos a la izquierda, navegue a la ubicación donde están guardadas las notebooks (*.ipynb). Haga doble clic en el archivo que desea abrir.    
+  * Jupyter Notebook: En la interfaz principal, verá un listado de archivos y carpetas en su directorio de trabajo actual. Navegue hasta la carpeta donde guardó las notebooks y haga clic en el archivo *.ipynb que desea abrir.
 
-![](assets/create.png)
+**Nota** 
+Si no recuerda dónde guardó las notebooks, puede verificar la ubicación predeterminada en la que se abrió Jupyter. Esta suele ser la carpeta que estaba abierta en su sistema cuando ejecutó Jupyter desde Anaconda Navigator o la línea de comandos.
 
-Escriba un nombre, por ejemplo, "intro-to-text-mining", asegúrese de que "Python" esté _marcado_
-y en el menú desplegable seleccione **'3.9'**. Asegúrese de que "R" esté _desmarcado_.
-
-Luego, haga clic en el botón "Crear".
-
-![](assets/new-env.png)
-
-Tomará unos segundos configurarlo...
-
-Luego, en **Anaconda Navigator > Entornos**, asegúrese de haber seleccionado su
-nuevo entorno.
-
-A la derecha del nombre del entorno hay una pequeña flecha verde de reproducción. Haga clic en ella y seleccione "Abrir terminal" en el
-menú desplegable.
-
-En la terminal que se abre, escriba lo siguiente y presione Enter:
-
-`conda install pip`
-
-![](assets/conda-install-pip.png)
-
-Si aún no tiene pip instalado, lo instalará. De lo contrario, mostrará un mensaje:
-
-`# Todos los paquetes solicitados ya están instalados.`
-
-Luego, cambie el directorio a donde haya guardado la carpeta de cuadernos escribiendo algo como:
-
-`cd path\to\notebooks`
-
-donde `path\to\notebooks` es la ruta del archivo donde haya colocado la carpeta de cuadernos.
-
-Si está en una **Mac**, asegúrese de usar barras diagonales en la ruta del archivo, por ejemplo `path/to/notebooks`
-
-![](assets/cd-directory.png)
-
-Luego, instala todas las dependencias escribiendo:
-
-`pip install -r requirements.txt`
-
-Luego:
-
-`pip install jupyter`
-
-Esto debería iniciar una gran lista de descargas y tardará un tiempo en finalizar. Ten paciencia.
-
-Por último, para iniciar el servidor de Jupyter Notebook, escribe:
-
-`jupyter notebook`
-
-Esto abre una página web que muestra el proyecto:
-
-![](assets/jupyter-notebooks.png)
-
-Si no, puedes copiar y pegar una de las URL en la ventana de la Terminal en tu navegador, por ejemplo:
-
-http://localhost:8888/?token=ddb27d2a1a6cb29a3483c24d6ff9f7263eb9676f02d71075
-(Este no funcionará en su máquina, ya que el token es único cada vez).
-
-Cuando haya terminado con el notebook, presione **ctrl+c** para detener el servidor notebook.
-
-Puede cerrar la ventana de Terminal.
-
-### Iniciar el servidor notebook nuevamente
-
-La próxima vez que desee iniciar el servidor notebook:
-
-En **Anaconda Navigator > Environments** asegúrese de haber seleccionado su nuevo entorno.
-
-A la derecha del nombre del entorno hay una pequeña flecha verde de reproducción. Haga clic en ella y seleccione "Abrir terminal" en el
-menú desplegable.
-Para iniciar el servidor notebook Jupyter, escriba:
-
-`jupyter notebook`
-
-Cuando haya terminado con el notebook, presione **ctrl+c** para detener el servidor notebook. Puede cerrar la ventana de Terminal.
+[Introducción a Python y minería de textos](1-introduccion-python-texto.ipynb)
 
 ### Licencia
 
