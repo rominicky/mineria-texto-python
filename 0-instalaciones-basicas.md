@@ -11,8 +11,6 @@
 
 Este repositorio contiene Jupyter notebooks q son utilizadas para la enseñanza de Minería de texto en Python en la materia "Gestión de datos en contextos organizacionales" de la Maestría y Especialización en Métodos Cuantitativos para la Gestión y Análisis de Datos en Organizaciones, de la Facultad de Ciencias Económicas (UBA).
 
-Una **notebook** es un entorno virtual, un documento computacional interactivo, que se utiliza en programación combinando código, visualizaciones y documentación. Estas son diseñadas, en este repositoio, para el trabajo a propio ritmo. Tienen como objetivo presentar los conceptos básicos en un flujo de trabajo de minería de texto, dirigido a principiantes.
-
 ### Contenido
 
 * Python básico (cadenas, listas, comprensión de listas, importaciones, funciones, abrir/leer/guardar archivos)
@@ -21,6 +19,12 @@ Una **notebook** es un entorno virtual, un documento computacional interactivo, 
 * Creación de una distribución de frecuencia y representación gráfica de los resultados
 
 ### Ejecutar notebooks en línea
+
+#### ¿Qué es una notebook?
+
+Una **notebook** es un entorno virtual interactivo y un documento computacional que se utiliza en programación combinando código, visualizaciones y documentación. Generalmente, estas se trabajan en [Jupyter Notebook](https://jupyter.org/). En este repositorio, las notebooks fueron diseñadas para un trabajo autónomo, permitiendo avanzar de manera fluida y organizada al integrar instrucciones, ejemplos de código, y resultados en un solo documento. También permiten explorar y experimentar con el código mientras lee y comprende la teoría proporcionada. Por ello, estas notebooks tienen como objetivo presentar los conceptos básicos de un flujo de trabajo de minería de texto, dirigido a principiantes.
+
+Para ejecutar el código que se escribe en una notebook, Jupyter Notebook utiliza un componente fundamental llamado **kernel**. Este es el núcleo del entorno de ejecución; se encarga de la interpretación, ejecución del código, procesamiento de los datos, y devolución de los resultados. Además, el kernel mantiene el estado global del entorno de trabajo, es decir que las variables y datos definidos en una celda están disponibles para usarlos en otras celdas mientras el kernel esté activo.
 
 #### Vista rápida en Binder
 
@@ -84,7 +88,6 @@ Si no recuerda dónde guardó las notebooks, puede verificar la ubicación prede
 
 [Introducción a Python y minería de textos](1-introduccion-python-texto.ipynb)
 [Procesamiento de textos y Visualización de los resultados](2-procesamiento-texto-corpus.ipynb)
-
 
 ### Licencia
 
