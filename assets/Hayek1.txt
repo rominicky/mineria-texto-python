@@ -28,7 +28,7 @@ INTRODUCCIÓN
 
 Los problemas monetarios han constituido un tema de preocupación y análisis para los economistas desde el nacimiento mismo de nuestra ciencia. Pero, pese al tiempo transcurrido y a la larga experiencia disponible sobre graves, y a veces trágicas, crisis debidas a desequilibrios monetarios, el concepto y las funciones del dinero siguen siendo de difícil comprensión tanto para muchos economistas corno para el público en general.
 
-El libro que aquí se presenta en lengua española es una obra que, aunque publicada por vez primera en 1976, se ha convertido ya en clásica. La d e s n a c i o n a l i z a c i ó n d e l d i n e r o es un importante y meditado alegato en favor de la libre competencia en la emisión y circulación de medios de pagos. Su objetivo es presentar el dinero como una mercancía que, de forma similar a los restantes bienes existentes en un mercado, puede ser suministrada con mayor eficiencia a la sociedad por el sector privado que por un monopolio estatal.
+El libro que aquí se presenta en lengua española es una obra que, aunque publicada por vez primera en 1976, se ha convertido ya en clásica. La desnacionalización del dinero es un importante y meditado alegato en favor de la libre competencia en la emisión y circulación de medios de pagos. Su objetivo es presentar el dinero como una mercancía que, de forma similar a los restantes bienes existentes en un mercado, puede ser suministrada con mayor eficiencia a la sociedad por el sector privado que por un monopolio estatal.
 
 La influencia de las ideas del profesor Hayek sobre desnacionalización del dinero ha sido ya significativa en numerosos estudios sobre temas monetarios, entre los que puede mencionarse el trabajo de Pascal Salin La u n i d a d m o n e t a r i a e u r o p e a : o t r o m o n o p o -
 
@@ -38,7 +38,7 @@ lio, publicado por el Instituto de Economía de Mercado en su colección P a p e
 
 La desnacionalización del dinero
 
-encuentra, en efecto, sólo entre partidarios de un mayor interven-cionismo estatal, sino también entre economistas liberales, que consideran que la libre competencia en la emisión de dinero podría hacer crecer los costes de información y transacción, inevitables en la vida económica, que el sistema monetario debe procurar minimizar.
+encuentra, en efecto, sólo entre partidarios de un mayor intervencionismo estatal, sino también entre economistas liberales, que consideran que la libre competencia en la emisión de dinero podría hacer crecer los costes de información y transacción, inevitables en la vida económica, que el sistema monetario debe procurar minimizar.
 
 No deberían, sin embargo, juzgarse las propuestas de Hayek como un modelo de reforma inmediata de los actuales sistemas monetarios. La desnacionalización del dinero es, en cambio, un proyecto que trata de garantizar, para el futuro, un sistema financiero estable, con base en la libre competencia de instituciones privadas. La polémica sigue abierta. Sólo el tiempo nos dirá si estamos hoy en los inicios de ese gran movimiento en favor del dinero libre preconizado por el profesor Hayek.
 
@@ -46,7 +46,7 @@ FRANCISCO CARRILLO
 
 Director del Instituto de Economía de Mercado
 
-I N T R O D U C C I Ó N D E L A U T O R
+INTRODUCCIÓN DEL AUTOR
 
 En todos los países del mundo, la avaricia y la injusticia de los príncipes de los Estados soberanos, abusando de la confianza de sus subditos, han disminuido gradualmente la cantidad verdadera del metal que primitivamente contenían sus monedas.
 

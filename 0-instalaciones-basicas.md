@@ -83,6 +83,8 @@ Una vez abierto JupyterLab o Jupyter Notebook, navegue a la carpeta donde guard�
 Si no recuerda dónde guardó las notebooks, puede verificar la ubicación predeterminada en la que se abrió Jupyter. Esta suele ser la carpeta que estaba abierta en su sistema cuando ejecutó Jupyter desde Anaconda Navigator o la línea de comandos.
 
 [Introducción a Python y minería de textos](1-introduccion-python-texto.ipynb)
+[Procesamiento de textos y Visualización de los resultados](2-procesamiento-texto-corpus.ipynb)
+
 
 ### Licencia
 
