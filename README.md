@@ -2,7 +2,7 @@
 
 Introducción a la Minería de texto en Python, material creado por Romina De León (CONICET)
  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11657178.svg)](https://doi.org/10.5281/zenodo.11657178)
+[![DOI](https://zenodo.org/badge/841497843.svg)](https://zenodo.org/doi/10.5281/zenodo.13355127)
 
 #### Romina De León
 ##### rdeleon@conicet.gov.ar
